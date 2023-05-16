@@ -47,9 +47,9 @@ Create a new pipeline with following code
                         }
                 }
         }
-Test if the pipeline works
-![Test pipeline](Screenshot/4.png)
-Run the pipeline to create the wordpress website
+Test if the pipeline works  
+![Test pipeline](Screenshots/4.png)
+Run the pipeline to create the wordpress website  
 ![Running the pipeline](Screenshots/7.png)
 ## 6. Check if the pods were created
 ![Created pods](Screenshots/6.png)
