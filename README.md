@@ -52,10 +52,10 @@ Test if the pipeline works
 Run the pipeline to create the wordpress website
 ![Running the pipeline](Screenshots/7.png)
 ## 6. Check if the pods were created
-![Created pods](Screenshot/6.png)
+![Created pods](Screenshots/6.png)
 ## 7. Port-forward the wordpress pod to localhost:9090
 
         kubectl port-forward "pod-name" -n wp 9090:80
         
 ## 8. Enjoy the wordpress page in your browser
-![Wordpress website](Screenshot/9.png)
+![Wordpress website](Screenshots/9.png)
